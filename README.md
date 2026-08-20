@@ -2,84 +2,86 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/chabdulrahman/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://chabdulrahman.com/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
-  <a href="https://x.com/ch_abdulrahmn">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+
+# Hi, I'm Abdul Rahman 👋
+
+### Full-Stack Developer · Laravel · React · Next.js · AI Automation
+
+**3+ years of experience building production-ready web applications, SaaS platforms, APIs and automation workflows.**
+
+<a href="mailto:contact@chabdulrahman.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/chabdulrahman/">
+  <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="LinkedIn" />
+</a>
+<a href="https://github.com/chabdulrahmn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="26" alt="GitHub" />
+</a>
+
 </div>
 
-###
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chabdulrahmn" />
-</div>
+- 💻 Full-Stack Developer focused on **Laravel, React, Next.js, and Vue**
+- 🚀 Build **SaaS platforms, REST APIs, dashboards, and integrations**
+- 🗄️ Experienced with **MySQL, PostgreSQL, Redis, Prisma, and MongoDB**
+- 🐳 Work with **Docker, Nginx, CI/CD, GitHub Actions, and cloud infrastructure**
+- 🤖 Exploring **LLMs, AI agents, LangChain, LangGraph, n8n, and AI automation**
+- 💬 **Ask me about** Laravel, PHP, React, Next.js, APIs, PostgreSQL, Docker, or AI automation
 
-###
+## 🛠️ Tech Stack
 
-<h1 align="center">Hey there 👋, I'm Abdul Rahman</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-I am a Full Stack Developer from Pakistan.<br><br>
-- 🔭 I’m currently working on full-stack web applications using Laravel, React, Vue, and Next.js<br>
-- 📚 I’m learning advanced automation and AI integration for web platforms<br>
-- ⚡ In my free time, I build SaaS tools, experiment with APIs, and automate workflows
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,php,laravel,react,nextjs,vue,jquery" />
+  </a>
 </p>
 
-###
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis,mongodb,nodejs,docker,nginx,cloudflare,git,github,githubactions" />
+  </a>
+</p>
 
-<h3 align="left">🛠 Language and Tools</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elasticsearch,linux,sentry,postman,vercel,netlify,vscode,python,fastapi" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
+## 🚀 What I Build
 
-###
+- 🌐 Full-Stack Web Applications
+- ☁️ SaaS Platforms
+- 🔌 REST APIs & Integrations
+- 📊 Admin Dashboards
+- ⚡ Real-Time Applications
+- ⚙️ Automation Workflows
+- 🤖 AI-Powered Applications
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+## 🤖 Currently Exploring
+
+- 🧠 LangChain & LangGraph
+- 🔎 RAG & Vector Databases
+- 🤖 AI Agents & LLM Applications
+- ⚙️ n8n, Zapier & Make
+- 🐍 Python & FastAPI
+- 🚀 AI automation for real-world business workflows
+
+## 🔥 My GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chabdulrahmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+## 📫 Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/chabdulrahman](https://www.linkedin.com/in/chabdulrahman)
+- 🐙 **GitHub:** [github.com/chabdulrahmn](https://github.com/chabdulrahmn)
+- 📧 **Email:** chabdulrahmaan@gmail.com
+
+---
+
+**Building useful software, exploring AI, and automating repetitive work.**
