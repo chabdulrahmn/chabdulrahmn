@@ -47,7 +47,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elasticsearch,linux,sentry,postman,vercel,netlify,vscode,python,fastapi" />
+    <img src="https://skillicons.dev/icons?i=elasticsearch,linux,sentry,postman,vercel,netlify,vscode" />
   </a>
 </p>
 
